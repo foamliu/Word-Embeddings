@@ -1,2 +1,2 @@
-# Word Embeddings In PyTorch
+# Word Embeddings
 
