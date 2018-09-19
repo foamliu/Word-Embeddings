@@ -12,8 +12,8 @@ def extract(folder):
 def main():
     ''' Main function '''
 
-    if not os.path.isdir('《刘慈欣作品全集》(v1.0)'):
-        extract('《刘慈欣作品全集》(v1.0)')
+    if not os.path.isdir('data/《刘慈欣作品全集》(v1.0)'):
+        extract('data/《刘慈欣作品全集》(v1.0)')
 
 
 if __name__ == '__main__':
