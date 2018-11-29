@@ -6,22 +6,23 @@ Created on Wed Sep 27 13:11:47 2017
 """
 
 from __future__ import print_function
+
 import collections
 import math
-import numpy as np
 import random
-import tensorflow as tf
 from os import walk
 from os.path import join
-from matplotlib import pylab
-from six.moves import range
-from sklearn.manifold import TSNE
 
 # import sys
 # reload(sys)
 # sys.setdefaultencoding('utf-8')
 import jieba
 import matplotlib.pyplot as plt
+import numpy as np
+import tensorflow as tf
+from matplotlib import pylab
+from six.moves import range
+from sklearn.manifold import TSNE
 
 # plt.rcParams['font.sans-serif']=['Arial Unicode MS'] # for Mac
 plt.rcParams['font.sans-serif'] = ['SimHei']  # for Windows
