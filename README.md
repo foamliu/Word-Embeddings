@@ -6,4 +6,10 @@
 ## 可视化
 把128维词向量用TSNE降到二维可视化：
 
-![image](https://github.com/foamliu/Word-Embeddings/raw/master/embeddings.png)
+第一轮执行结果：
+
+![image](https://github.com/foamliu/Word-Embeddings/raw/master/images/embeddings-1.png)
+
+第二轮执行结果：
+
+![image](https://github.com/foamliu/Word-Embeddings/raw/master/images/embeddings-2.png)

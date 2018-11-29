@@ -119,7 +119,7 @@ def plot(embeddings, labels):
         pylab.annotate(label, xy=(x, y), xytext=(5, 2), textcoords='offset points',
                        ha='right', va='bottom')
     # pylab.show()
-    pylab.savefig('embeddings.png')
+    pylab.savefig('embeddings-2.png')
 
 
 def tf_skipgram():
